@@ -1,4 +1,4 @@
-from django import forms
+from django import forms2
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from .models import CustomUser
 
