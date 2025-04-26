@@ -1,4 +1,4 @@
-from django.test import TestCase1
+from django.test import TestCase
 from .models import CustomUser
 
 class CustomUserTest(TestCase):
