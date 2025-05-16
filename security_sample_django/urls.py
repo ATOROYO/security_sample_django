@@ -7,3 +7,4 @@ urlpatterns = [
     path('accounts/', include('accounts.urls')),  # Include our accounts URLs
     path('', RedirectView.as_view(url='/accounts/login/', permanent=False)),  # Redirect to login page
 ]
+😊
