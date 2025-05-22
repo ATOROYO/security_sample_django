@@ -1,5 +1,5 @@
 from django.test import TestCase
-from .models import CustomUser
+from .models import CustomUser😘
 
 class CustomUserTest(TestCase):
     def test_create_user(self):
